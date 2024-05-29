@@ -1,0 +1,8 @@
+steps 
+1.cd Online_Voting_System_Blockchain
+2.npm i
+3.truffle migrate  --reset
+4.npm start
+
+
+
