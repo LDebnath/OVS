@@ -37,6 +37,7 @@ Name the network Ganache.
 For the New RPC URL go to ganache where you’ll copy the RPC server URL and paste it into Metamask.
 The chain ID for the ganache is 1337.
 You can name the currency symbol “ETH” and save.
+
 Step 3:
 
 Check the truffle-config.js file. The port number should be 7545 as we are not using the ganache-cli.
@@ -48,3 +49,10 @@ cd E-Voting_System_Blockchain
 npm i
 
 truffle migrate — reset
+
+Step 5: Importing an account from ganache to metamask
+
+Open ganache and select show keys on any account. The show keys button is the key icon.
+Copy the private key and click done.
+Open the metamask menu which can be accessed by clicking the profile picture and select import account.
+Paste the private key copied from ganache and click import.
