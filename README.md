@@ -13,7 +13,7 @@ OVS is an online voting platform backed by blockchain.
 
 #### For deploying the project
 
-`cd E-Voting_System_Blockchain`
+
 
 `npm i`
 
