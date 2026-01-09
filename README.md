@@ -57,7 +57,9 @@ Registration Page
 
 Casting Vote  
 
+<img width="706" height="341" alt="casting vote" src="https://github.com/user-attachments/assets/3c6081f5-0e63-46ba-877e-be8902691f7c" />
 
 Result 
+<img width="696" height="338" alt="result" src="https://github.com/user-attachments/assets/ed1e2262-d0bd-47f3-8991-10bf2aec255e" />
 
 
