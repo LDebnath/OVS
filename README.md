@@ -1,8 +1,15 @@
 
 
-# OVS
+# OVS - Blockchain Based Online Voting System
 
-OVS is an online voting platform backed by blockchain.
+## 📌 Table of Contents
+
+- [Technologies Used](#-technologies-used)  
+- [Deployment Instructions](#-deployment-instructions)  
+- [Features](#-features)  
+- [Screenshots](#-screenshots)  
+- [Contributing](#-contributing)  
+- [License](#-license)  
 
 
 #### Languages used :
