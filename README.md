@@ -12,25 +12,27 @@
 - [License](#-license)  
 
 
-#### Languages used :
-1. For Smart Contract: Solidity
-2. Frontend: JavaScript, HTML, CSS
-3. Development Tools: Truffle, Ganache
+## 🛠 Technologies Used
+
+- **Smart Contract:** Solidity  
+- **Frontend:** JavaScript, HTML, CSS  
+- **Development Tools:** Truffle, Ganache 
 
 
-#### For deploying the project
+## 🚀 Deployment Instructions
+
+1. **Install dependencies**  
+
+```bash
+npm i
+truffle compile
+truffle migrate
+# For subsequent runs:
+truffle migrate --reset
+npm start
+Note: Please refer to steps.txt for detailed instructions and additional setup steps.
 
 
-
-`npm i`
-
-`truffle compile`
-
-`truffle migrate`or`truffle migrate --reset` for subsequent runs
-
-`npm start`
-
-#### PS: Please take a look at steps.txt for further details.
 
 
 
